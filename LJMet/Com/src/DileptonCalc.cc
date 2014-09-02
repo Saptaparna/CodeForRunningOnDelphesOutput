@@ -2,6 +2,8 @@
   Calculator for the SLiTT analysis
   
   Author: Gena Kukartsev, 2012
+  Modified by Saptaparna Bhattacharya for CMS analysis with 8 TeV data and for use with Delphes. Saptaparna has modified the code to include various electron and muon ID requirements, has added full generator level history and also modified the code to include jet substructure variables. 
+
 */
 
 
